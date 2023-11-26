@@ -1,0 +1,14 @@
+$ gzip filename 
+
+$ gunzip filename 
+
+Above are used for files 
+
+
+For dir 
+
+tar -cvf os.tar.gz dirname
+
+
+
+
